@@ -54,7 +54,7 @@ Search-automation/
 ## ▶️ How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/ashish-modak-22/Search_automation.git>
 
    
 ## Install required packages:
