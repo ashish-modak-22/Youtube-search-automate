@@ -46,7 +46,6 @@ The main goal of this project is to understand how **web automation works using 
 
 ## 📂 Project Structure
 Search-automation/
-│
 ├── youtube_search_automate.py
 └── README.md
 
@@ -56,12 +55,14 @@ Search-automation/
 1. Clone the repository:
    ```bash
    git clone <repository-url>
+
    
 ## Install required packages:
 ---> pip install selenium
 
 ## Run the script:
 ---> python youtube_search_automate.py
+
 
 **📌 Requirements**
 - Python 3.x
