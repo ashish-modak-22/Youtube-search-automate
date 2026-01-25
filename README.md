@@ -54,15 +54,19 @@ Search-automation/
 ## ▶️ How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ashish-modak-22/Search_automation.git
+   git clone <https://github.com/ashish-modak-22/Search_automation.git>
 
+---
    
 ## Install required packages:
 ---> pip install selenium
 
+---
+
 ## Run the script:
 ---> python youtube_search_automate.py
 
+---
 
 **📌 Requirements**
 - Python 3.x
@@ -70,11 +74,15 @@ Search-automation/
 - ChromeDriver (compatible with Chrome version)
 - Selenium library
 
+---
+
 **🎯 Learning Outcomes**
 - Learned how to automate a real-world website
 - Understood Selenium WebDriver basics
 - Gained hands-on experience with CSS selectors and XPath
 - Learned browser automation and interaction handling
+
+---
 
 **👨‍💻 Author**
 - Ashish Modak
