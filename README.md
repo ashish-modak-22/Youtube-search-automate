@@ -87,3 +87,9 @@ Search-automation/
 **👨‍💻 Author**
 - Ashish Modak
 - Beginner Automation Tester | Selenium Learner | C/C++ Programmer
+
+---
+
+Important Modification: An explicit wait can be done for the webdriver as per certain conditions for a smooth scrapping.
+
+---
